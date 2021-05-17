@@ -23,9 +23,9 @@
   ],
   "products": [
     {
-      "image": "/10641.jpg",
+      "image": "//10641.jpg",
       "name": "BLOONS TD6",
-      "price": "120",
+      "price": "19.99",
       "category": "Chiến Thuật",
       "windows": {
         "value": true,
@@ -43,7 +43,7 @@
         "value": true,
         "icon": "fab fa-playstation"
       },
-      "discount": "10",
+      "discount": 10,
       "description": "Sau Bloons TD 5, cuối cùng thì series Bloons cũng đã trở lại với 1 sự lột xác mới mẻ. Đây là game thủ thành 3D với đồ họa rực rỡ, đầy sắc màu. Xây dựng hàng phòng thủ hoàn hảo, kết hợp giữa các tháp khỉ tuyệt đẹp, item nâng cấp, anh hùng và năng lực mới được kích hoạt đúng thời điểm. Người chơi sẽ bắn vỡ những quả bóng bay màu mè để bảo vệ đế chế của mình.",
       "id": 1
     },
@@ -121,6 +121,356 @@
       "discount": "5",
       "description": "Cozy Grove là game mô phỏng kết hợp phiêu lưu cực hay với đồ họa dễ thương, xoay quanh việc cắm trại trên một hòn đảo ma ám! Trong game, bạn vào vai một Hướng đạo sinh tâm linh, có nhiệm vụ khám phá hòn đảo để tìm ra những bí mật ẩn mới và giúp đỡ những cư dân của thiên đường nhỏ này.",
       "id": 4
+    },
+    {
+      "image": "/7882.jpg",
+      "name": "Dead Cells",
+      "price": "5.99",
+      "category": "Hành Động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Dead Cells cho phép người chơi vào vai một xác chết vô danh nhưng lại có khả năng chiến đấu “ảo diệu” đi khám phá sự tồn tại của mình trên một hòn đảo vô định và đầy rẫy cạm bẫy luôn sẵn sàng cho bạn “về vườn”.",
+      "id": 5
+    },
+    {
+      "image": "//12348.jpg",
+      "name": "Patrol Duty",
+      "price": "5.00",
+      "category": "Mô phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Trải nghiệm cuộc sống thường nhật của 1 cảnh sát Mỹ trong tựa game mô phỏng Police Simulator: Patrol Duty. Phiêu lưu khám phá thành phố rộng lớn và sống động ở Mỹ nhờ công nghệ Unreal Engine 4 tiên tiến. Sứ mệnh của bạn là giữ gìn sự bình yên, an ninh trật tự cho quận mà mình phụ trách.",
+      "id": 6
+    },
+    {
+      "image": "/12333.jpg",
+      "name": "Raccoo Venture",
+      "price": "17.00",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Đánh thức sức mạnh thiêng liêng của những vệ binh trong hành trình cổ điển bí ẩn với Raccoo Venture. Đây là tựa game phiêu lưu 3D kết hợp với phong cách hành động platform, mang đến cho người chơi 1 bầu không khí vui tươi, lấy cảm hứng từ loạt trò chơi cùng loại từ những năm 90.",
+      "id": 7
+    },
+    {
+      "image": "/11996.jpg",
+      "name": "Mortal Kombat 11",
+      "price": "99.99",
+      "category": "Hành động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 0,
+      "description": "Game đối kháng Võ sĩ rồng đen đã trở lại với phiên bản Mortal Kombat 11. Sau gần 4 năm tung ra phiên bản Mortal Kombat X, chúng ta mới được gặp lại dàn nhân vật khủng trong series cùng tên với những trận đối đầu nảy lửa, hứa hẹn sẽ vô cùng mãn nhãn và thú vị!",
+      "id": 8
+    },
+    {
+      "image": "///12723.jpg",
+      "name": "Winemaking Simulator",
+      "price": "3.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Bạn đã bao giờ tự hỏi điều hành một nhà máy rượu sẽ như thế nào? Hundred Days từ Broken Arms Games sẽ cho bạn cơ hội làm điều đó. Bạn sẽ bắt đầu sự nghiệp kinh doanh của mình từ một nhà máy rượu nhỏ bị bỏ hoang.",
+      "id": 9
+    },
+    {
+      "image": "/12649.jpg",
+      "name": "Exit From",
+      "price": "5.99",
+      "category": "Hành động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 50,
+      "description": "Exit From - là một trò chơi lén lút kinh dị góc nhìn thứ nhất với các yếu tố nhiệm vụ và giả mạo, nơi bạn phải thoát ra khỏi ngôi nhà cũ của Liên Xô, điều này sẽ thay đổi mọi trò chơi mới.",
+      "id": 10
+    },
+    {
+      "image": "/12650.jpg",
+      "name": "Project Boost",
+      "price": "9.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 0,
+      "description": "Project Boost là một trò chơi nhập vai hành động bắn súng góc nhìn thứ ba. Trò chơi tập trung vào một lối chơi ly kỳ nhịp độ nhanh với một câu chuyện hấp dẫn, từ từ làm sáng tỏ khi trò chơi tiến triển.\n",
+      "id": 11
+    },
+    {
+      "image": "////12636.jpg",
+      "name": "Remnants",
+      "price": "55.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 10,
+      "description": "Remnants là một hộp cát sinh tồn thế giới mở góc nhìn thứ nhất có lối chơi solo, co-op, PvE và PvP.\n",
+      "id": 12
+    },
+    {
+      "image": "/12563.jpg",
+      "name": "Airport Simulator 3",
+      "price": "37.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 2,
+      "description": "Sân bay là nơi không bao giờ ngủ. Với những chuyến khởi hành, lượt đến và sự hối hả liên tục của hành khách, hiếm khi có cơ hội nghỉ ngơi. Trong Airport Simulator 3: Day & Night, thử thách của bạn là giữ cho bánh xe quay và đảm bảo rằng mọi thứ trong sân bay hoạt động trơn tru suốt ngày đêm.",
+      "id": 13
+    },
+    {
+      "image": "///12544.jpg",
+      "name": "Size Matters",
+      "price": "12.55",
+      "category": "Mô phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Size Matters bạn sẽ vào vai một nhà khoa học vô tình ăn phải một chất hóa học khiến anh ta co lại mỗi giây!",
+      "id": 14
+    },
+    {
+      "image": "/12528.jpg",
+      "name": "Circuit Superstars",
+      "price": "22.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Circuit Superstars là sự kết hợp độc đáo giữa thể loại arcade góc nhìn từ trên xuống và đồ họa sống động của game đua xe thể thao. Hãy sẵn sàng để đua, thiết lập tốc độ và trở thành siêu sao tốc độ nhé!",
+      "id": 15
+    },
+    {
+      "image": "/12499.jpg",
+      "name": "Unleash the Light",
+      "price": "25.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 5,
+      "description": "Nhóm Crystal Gems đã trở lại trong phần 3 của series phiêu lưu hành động Light Trilogy mang tên Steven Universe: Unleash the Light! Khi hai người cai trị Gem mạnh mẽ đe dọa hòa bình mới được tìm thấy của Kỷ nguyên 3, Steven và những người bạn của mình phải bước vào một nhiệm vụ nhập vai mới để ngăn chặn chúng!",
+      "id": 16
+    },
+    {
+      "image": "/12458.jpg",
+      "name": "The Battle of Polytopia",
+      "price": "50.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "The Battle of Polytopia là một cuộc phiêu lưu chiến thuật chiến đấu theo lượt. Game là cuộc chơi giành quyền cai trị thế giới, chống lại các bộ tộc AI tà ác, khám phá những vùng đất mới và làm chủ các công nghệ mới.",
+      "id": 17
+    },
+    {
+      "image": "/12454.jpg",
+      "name": "Mini Countries",
+      "price": "12.99",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 0,
+      "description": "Mini Countries là game chiến thuật kết hợp giải đố chủ đề xây dựng, trong đó bạn có nhiệm vụ xây dựng một mạng lưới vận chuyển tài nguyên để phát triển một quốc gia.",
+      "id": 18
     }
   ],
   "COVER": [
@@ -143,14 +493,11 @@
   ],
   "COMINGSOON": [
     {
-      "name": "Red Dead Redemption 2",
-      "image": "/12172.jpg",
-      "price": 55.99,
-      "description": " Game phiêu lưu hành động với chủ đề về miền Tây hoang dã, game do Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành",
+      "name": "Just Cause 4",
+      "image": "/9449.jpg",
+      "price": 34.99,
+      "description": "Một trong những sản phẩm trụ cột của hãng Square Enix, đem lại lối chơi hành động với môi trường có thể phá hủy chi tiết trên một phạm vi rộng lớn, đồng thời phiên bản thứ tư này còn bổ sung thêm những tình trạng thời tiết khắc nghiệt vào trong không gian của trò chơi.",
       "platform": [
-        {
-          "value": "Xbox"
-        },
         {
           "value": "PS 5"
         },
@@ -158,40 +505,31 @@
           "value": "PC"
         },
         {
-          "value": "IOS"
+          "value": "Mobile"
         }
       ],
       "id": 1
     },
     {
-      "name": "Red Dead Redemption 2",
+      "name": "TinyCrack",
       "image": "/11842.jpg",
-      "price": 55.99,
-      "description": " Game phiêu lưu hành động với chủ đề về miền Tây hoang dã, game do Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành",
+      "price": 5.99,
+      "description": "Sự phát triển của nền văn minh đã tăng tốc với việc phát hiện ra kim loại Astra, nhưng ánh sáng phát ra từ tàn tích bí ẩn đã dẫn nhân loại đến sự diệt vong",
       "platform": [
         {
-          "value": "Xbox"
-        },
-        {
-          "value": "PS 5"
-        },
-        {
-          "value": "PC"
+          "value": "Mobile"
         }
       ],
       "id": 2
     },
     {
-      "name": "Red Dead Redemption 2",
-      "image": "/12188.jpg",
-      "price": 55.99,
-      "description": " Game phiêu lưu hành động với chủ đề về miền Tây hoang dã, game do Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành",
+      "name": "EVERSPACE 2",
+      "image": "/12330.jpg",
+      "price": 15.99,
+      "description": "Tựa game bắn súng không gian hứa hẹn một thế giới mở rộng khắp vũ trụ với các yếu tố RPG, khám phá và tất nhiên là cướp bóc.",
       "platform": [
         {
-          "value": "Xbox"
-        },
-        {
-          "value": "PS 5"
+          "value": "Mobile"
         },
         {
           "value": "PC"
@@ -200,14 +538,11 @@
       "id": 3
     },
     {
-      "name": "Red Dead Redemption 2",
-      "image": "/12328.jpg",
-      "price": 55.99,
-      "description": " Game phiêu lưu hành động với chủ đề về miền Tây hoang dã, game do Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành Rockstar Games phát hành",
+      "name": "Sky Haven",
+      "image": "/12163.jpg",
+      "price": 25.99,
+      "description": "Mô phỏng quản lý sống động, trong đó bạn có nhiệm vụ lập kế hoạch và xây dựng sân bay, quản lý lịch bay, cải thiện hậu cần, để khiến sân bay ngày càng phát triển.",
       "platform": [
-        {
-          "value": "Xbox"
-        },
         {
           "value": "PS 5"
         },
@@ -216,6 +551,24 @@
         }
       ],
       "id": 4
+    },
+    {
+      "name": "THE GAME OF LIFE 2",
+      "image": "/12230.jpg",
+      "price": 25.99,
+      "description": "Sau sự thành công của The Game of Life, Marmalade Game Studio và Hasbro vừa cho phát triển phần hai của board game này với tên gọi The Game of Life 2",
+      "platform": [
+        {
+          "value": "PS 5"
+        },
+        {
+          "value": "Mobile"
+        },
+        {
+          "value": "PC"
+        }
+      ],
+      "id": 5
     }
   ],
   "cart": [
