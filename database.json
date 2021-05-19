@@ -423,9 +423,9 @@
       "id": 16
     },
     {
-      "image": "/12458.jpg",
+      "image": "//12458.jpg",
       "name": "The Battle of Polytopia",
-      "price": "50.00",
+      "price": "51.00",
       "category": "Chiến Thuật",
       "windows": {
         "value": false,
@@ -446,31 +446,6 @@
       "discount": 0,
       "description": "The Battle of Polytopia là một cuộc phiêu lưu chiến thuật chiến đấu theo lượt. Game là cuộc chơi giành quyền cai trị thế giới, chống lại các bộ tộc AI tà ác, khám phá những vùng đất mới và làm chủ các công nghệ mới.",
       "id": 17
-    },
-    {
-      "image": "/12454.jpg",
-      "name": "Mini Countries",
-      "price": "12.99",
-      "category": "Chiến Thuật",
-      "windows": {
-        "value": true,
-        "icon": "fab fa-windows"
-      },
-      "apple": {
-        "value": true,
-        "icon": "fab fa-apple"
-      },
-      "android": {
-        "value": true,
-        "icon": "fab fa-google-play"
-      },
-      "playstation": {
-        "value": true,
-        "icon": "fab fa-playstation"
-      },
-      "discount": 0,
-      "description": "Mini Countries là game chiến thuật kết hợp giải đố chủ đề xây dựng, trong đó bạn có nhiệm vụ xây dựng một mạng lưới vận chuyển tài nguyên để phát triển một quốc gia.",
-      "id": 18
     }
   ],
   "COVER": [
@@ -493,82 +468,79 @@
   ],
   "COMINGSOON": [
     {
-      "name": "Just Cause 4",
-      "image": "/9449.jpg",
-      "price": 34.99,
-      "description": "Một trong những sản phẩm trụ cột của hãng Square Enix, đem lại lối chơi hành động với môi trường có thể phá hủy chi tiết trên một phạm vi rộng lớn, đồng thời phiên bản thứ tư này còn bổ sung thêm những tình trạng thời tiết khắc nghiệt vào trong không gian của trò chơi.",
-      "platform": [
-        {
-          "value": "PS 5"
-        },
-        {
-          "value": "PC"
-        },
-        {
-          "value": "Mobile"
-        }
-      ],
+      "image": "//12700.jpg",
+      "name": "SKATE CITY",
+      "price": "9.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Hãy để con tim và tâm hồn của bạn cùng được lướt đi trên tấm ván trượt qua các con phố theo phong cách riêng trong game.",
       "id": 1
     },
     {
-      "name": "TinyCrack",
-      "image": "/11842.jpg",
-      "price": 5.99,
-      "description": "Sự phát triển của nền văn minh đã tăng tốc với việc phát hiện ra kim loại Astra, nhưng ánh sáng phát ra từ tàn tích bí ẩn đã dẫn nhân loại đến sự diệt vong",
-      "platform": [
-        {
-          "value": "Mobile"
-        }
-      ],
+      "image": "/12626.jpg",
+      "name": "Cozy Grove",
+      "price": "12.55",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": "5",
+      "description": "Cozy Grove là game mô phỏng kết hợp phiêu lưu cực hay với đồ họa dễ thương, xoay quanh việc cắm trại trên một hòn đảo ma ám! Trong game, bạn vào vai một Hướng đạo sinh tâm linh, có nhiệm vụ khám phá hòn đảo để tìm ra những bí mật ẩn mới và giúp đỡ những cư dân của thiên đường nhỏ này.",
       "id": 2
     },
     {
-      "name": "EVERSPACE 2",
-      "image": "/12330.jpg",
-      "price": 15.99,
-      "description": "Tựa game bắn súng không gian hứa hẹn một thế giới mở rộng khắp vũ trụ với các yếu tố RPG, khám phá và tất nhiên là cướp bóc.",
-      "platform": [
-        {
-          "value": "Mobile"
-        },
-        {
-          "value": "PC"
-        }
-      ],
+      "image": "/7882.jpg",
+      "name": "Dead Cells",
+      "price": "5.99",
+      "category": "Hành Động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Dead Cells cho phép người chơi vào vai một xác chết vô danh nhưng lại có khả năng chiến đấu “ảo diệu” đi khám phá sự tồn tại của mình trên một hòn đảo vô định và đầy rẫy cạm bẫy luôn sẵn sàng cho bạn “về vườn”.",
       "id": 3
-    },
-    {
-      "name": "Sky Haven",
-      "image": "/12163.jpg",
-      "price": 25.99,
-      "description": "Mô phỏng quản lý sống động, trong đó bạn có nhiệm vụ lập kế hoạch và xây dựng sân bay, quản lý lịch bay, cải thiện hậu cần, để khiến sân bay ngày càng phát triển.",
-      "platform": [
-        {
-          "value": "PS 5"
-        },
-        {
-          "value": "PC"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "name": "THE GAME OF LIFE 2",
-      "image": "/12230.jpg",
-      "price": 25.99,
-      "description": "Sau sự thành công của The Game of Life, Marmalade Game Studio và Hasbro vừa cho phát triển phần hai của board game này với tên gọi The Game of Life 2",
-      "platform": [
-        {
-          "value": "PS 5"
-        },
-        {
-          "value": "Mobile"
-        },
-        {
-          "value": "PC"
-        }
-      ],
-      "id": 5
     }
   ],
   "cart": [
