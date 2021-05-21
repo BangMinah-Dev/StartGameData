@@ -10,7 +10,6 @@
   },
   "users": [
     {
-      "id": 1,
       "name": "Minah",
       "email": "admin@admin.com",
       "password": "12345",
@@ -18,12 +17,25 @@
       "birthday": "3/17/1993",
       "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
       "gender": "Male",
-      "avatar": "https://raw.githubusercontent.com/BangMinah-Dev/avatar/main/iuV%20.jpg"
+      "avatar": "/iuV.jpg",
+      "id": 1
+    },
+    {
+      
+      "name": "Minah 2",
+      "email": "admin2@admin.com",
+      "password": "12345",
+      "phone": "411-464-4275",
+      "birthday": "3/17/1993",
+      "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "gender": "Male",
+      "avatar": "/jisooAva.jpg",
+      "id": 2
     }
   ],
   "products": [
     {
-      "image": "//10641.jpg",
+      "image": "/10641.jpg",
       "name": "BLOONS TD6",
       "price": "19.99",
       "category": "Chiến Thuật",
@@ -73,7 +85,7 @@
       "id": 2
     },
     {
-      "image": "//12700.jpg",
+      "image": "/12700.jpg",
       "name": "SKATE CITY",
       "price": "9.99",
       "category": "Mô Phỏng",
@@ -148,7 +160,7 @@
       "id": 5
     },
     {
-      "image": "//12348.jpg",
+      "image": "/12348.jpg",
       "name": "Patrol Duty",
       "price": "5.00",
       "category": "Mô phỏng",
@@ -223,7 +235,7 @@
       "id": 8
     },
     {
-      "image": "///12723.jpg",
+      "image": "/12723.jpg",
       "name": "Winemaking Simulator",
       "price": "3.99",
       "category": "Mô Phỏng",
@@ -298,7 +310,7 @@
       "id": 11
     },
     {
-      "image": "////12636.jpg",
+      "image": "/12636.jpg",
       "name": "Remnants",
       "price": "55.00",
       "category": "Nhập vai",
@@ -348,7 +360,7 @@
       "id": 13
     },
     {
-      "image": "///12544.jpg",
+      "image": "/12544.jpg",
       "name": "Size Matters",
       "price": "12.55",
       "category": "Mô phỏng",
@@ -423,7 +435,7 @@
       "id": 16
     },
     {
-      "image": "//12458.jpg",
+      "image": "/12458.jpg",
       "name": "The Battle of Polytopia",
       "price": "51.00",
       "category": "Chiến Thuật",
