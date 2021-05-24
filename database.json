@@ -21,7 +21,6 @@
       "id": 1
     },
     {
-      
       "name": "Minah 2",
       "email": "admin2@admin.com",
       "password": "12345",
@@ -458,6 +457,356 @@
       "discount": 0,
       "description": "The Battle of Polytopia là một cuộc phiêu lưu chiến thuật chiến đấu theo lượt. Game là cuộc chơi giành quyền cai trị thế giới, chống lại các bộ tộc AI tà ác, khám phá những vùng đất mới và làm chủ các công nghệ mới.",
       "id": 17
+    },
+    {
+      "image": "12728.jpg",
+      "name": "Days Gone",
+      "price": "23.99",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 5,
+      "description": "Game phiêu lưu hành động thế giới mở có bối cảnh ở một vùng hoang dã khắc nghiệt, lấy thời điểm hai năm sau một đại dịch toàn cầu tàn khốc.",
+      "id": 18
+    },
+    {
+      "image": "12716.jpg",
+      "name": "Retro Machina",
+      "price": "13.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Game phiêu lưu hành động lấy bối cảnh một vũ trụ tương lai phong cách cổ điển. Trải nghiệm cuộc hành trình của một chú robot nhỏ bé, giải các câu đố phức tạp và làm sáng tỏ những bí ẩn của một thế giới bị lãng quên từ lâu.",
+      "id": 19
+    },
+    {
+      "image": "12719.jpg",
+      "name": "The Hand of Merlin",
+      "price": "15.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Game nhập vai kết hợp chiến thuật theo lượt, nơi truyền thuyết thời Trung Cổ kết hợp với kinh dị khoa học viễn tưởng. Trong game, bạn sẽ chiêu mộ các anh hùng phàm trần và khám phá vùng đất cổ đại bị tấn công bởi một ác nhân ở thế giới khác.",
+      "id": 20
+    },
+    {
+      "image": "12722.jpg",
+      "name": "The Companion",
+      "price": "18.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Trải nghiệm chơi game như điện ảnh. Chơi như một con vật trong lĩnh vực tâm linh. Hành trình tìm kiếm mục đích và số phận. Khám phá một thế giới kỳ diệu và tươi đẹp, nơi những tầm nhìn về quá khứ, hiện tại và tương lai hướng dẫn bạn. Thu thập Tinh hoa và tìm Đồ tạo tác hỗ trợ xây dựng liên kết với lĩnh vực vật chất.",
+      "id": 21
+    },
+    {
+      "image": "12673.jpg",
+      "name": " Turnip Boy",
+      "price": "22.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Game phiêu lưu hành động cực dễ thương, trong đó bạn sẽ vào vai một cây củ cải đáng yêu nhưng hay gây rắc rối. Hãy giúp chú củ cải tránh nộp thuế, giải các câu đố hóc búa, thu hoạch mùa màng và chiến đấu với những con thú khổng lồ trong hành trình tiêu diệt một chính phủ thực vật tham nhũng!",
+      "id": 22
+    },
+    {
+      "image": "12646.jpg",
+      "name": "Ezaron Defense",
+      "price": "35.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Game chiến thuật 3D cổ điển có đồ họa tuyệt đẹp. Game lấy bối cảnh trong một thế giới phép thuật chưa đầy những sinh vật đáng sợ với sức mạnh tàn phá. Hãy chiến đấu với những con quái vật ẩn nấp trong bóng tối và tùy chỉnh chiến lược phòng thủ của bạn với các tòa tháp khác nhau!",
+      "id": 23
+    },
+    {
+      "image": "12664.jpg",
+      "name": " Mini Car Racing",
+      "price": "9.99",
+      "category": "Hành động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Bắt lấy một người bạn (hoặc không nếu không có ai xung quanh), thắt dây an toàn và lên đường trong hơn 24 đường đua nhỏ được thiết kế hấp dẫn và đáng yêu. Thật nhanh, thật vui, thật thú vị.",
+      "id": 24
+    },
+    {
+      "image": "12652.jpg",
+      "name": " UNO",
+      "price": "10.00",
+      "category": "Chơi bài",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Một trong những trò chơi cổ điển mang tính biểu tượng nhất mà tất cả chúng ta đều biết và yêu thích!",
+      "id": 25
+    },
+    {
+      "image": "12606.jpg",
+      "name": " Neptunia Virtual Stars",
+      "price": "20.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Game nhịp điệu kết hợp hack and slash sôi động phong cách Anime đến từ Idea Factory International, trong đó bạn phải lập nhóm cùng các thần tượng ảo và sử dụng âm nhạc để cứu hành tinh Planet Emote!",
+      "id": 26
+    },
+    {
+      "image": "12590.jpg",
+      "name": "It Takes Two",
+      "price": "8.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 10,
+      "description": "Bắt tay vào cuộc hành trình điên rồ trong It Takes Two  - game phiêu lưu nhiều người chơi cực sáng tạo và độc đáo. Hãy mời một người bạn tham gia và cùng nhau thực hiện nhiều thử thách vui vẻ!",
+      "id": 27
+    },
+    {
+      "image": "12585.jpg",
+      "name": "The Fabled Woods",
+      "price": "25.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Trong game phiêu lưu kinh dị The Fabled Woods, bạn sẽ vào vai một người mẹ tìm đến một khu rừng huyền bí để tìm kiếm đứa con mất tích. Tại đây, cô sẽ khám phá ra nhiều bí mật kinh hoàng đang bị giấu kín.\n",
+      "id": 28
+    },
+    {
+      "image": "12511.jpg",
+      "name": "Shining Song Starnova",
+      "price": "5.00",
+      "category": "Mô phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Các cô gái của Starnova đã trở lại trong một trò chơi mô phỏng kinh doanh mới! Do âm mưu thâm độc của Golden Calf Productions độc ác, buổi phát trực tiếp của các cô gái đã bị hủy bỏ, và điều tồi tệ hơn, công ty quản lý tài năng của họ đã phải chuyển đến một văn phòng mới!",
+      "id": 29
+    },
+    {
+      "image": "12160.jpg",
+      "name": "Quantum Protocol",
+      "price": "6.99",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Game thẻ bài theo lượt đặc sắc đến từ Kaio Meris. Trong game, bạn sẽ vào vai một hacker bậc thầy của Quantum và có nhiệm vụ xử lý phần mềm độc hại nguy hiểm nhất thế giới. Hãy vạch ra các chiến thuật cẩn thận, nâng cấp bộ bài của bạn và phá vỡ bàn cờ của kẻ thù!",
+      "id": 30
+    },
+    {
+      "image": "12146.jpg",
+      "name": "Magia X",
+      "price": "2.99",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Game Anime 2D hành động đặc sắc với đồ họa lộng lẫy, dàn nhân vật độc đáo, những cuộc phiêu lưu ngoạn mục và một thế giới tuyệt vời đang chờ bạn khám phá!",
+      "id": 31
     }
   ],
   "COVER": [
