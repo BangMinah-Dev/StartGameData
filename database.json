@@ -807,6 +807,481 @@
       "discount": 0,
       "description": "Game Anime 2D hành động đặc sắc với đồ họa lộng lẫy, dàn nhân vật độc đáo, những cuộc phiêu lưu ngoạn mục và một thế giới tuyệt vời đang chờ bạn khám phá!",
       "id": 31
+    },
+    {
+      "image": "12113.jpg",
+      "name": "The Falconeer",
+      "price": "5.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Sở hữu lối chơi nhập vai, được phát triển bởi Tomas Sala, cho người chơi phiêu lưu vào thế giới bao bọc trong biển cả ảm đạm, chứa đầy những cảnh quan lộng lẫy nhưng cũng kèm bóng dáng kẻ địch cùng những bí ẩn ở một độ sâu không tưởng của Ursee.",
+      "id": 32
+    },
+    {
+      "image": "12085.jpg",
+      "name": "Door Kickers 2",
+      "price": "35.00",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Khác với phiên bản đầu, Door Kickers 2 chuyển sang bối cảnh quân sự và đưa bạn tới khu vực Trung Đông đầy cát bụi để chiến đấu chống khủng bố thay vì làm cảnh sát chống tội phạm như trong phiên bản đầu tiên. Ngoài ra, game còn có cả chế độ multiplayer co-op nơi mỗi game thủ điều khiển các binh sĩ của riêng mình và phối hợp cùng nhau để tiêu diệt kẻ địch.",
+      "id": 33
+    },
+    {
+      "image": "11990.jpg",
+      "name": "Kingdom Rush Vengeance",
+      "price": "30.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Đối mặt với đế chế của kẻ thù hùng mạnh. Đụng độ với những tên trùm tối cao, mở khóa và chuyển sang các tòa tháp mới. Đào tạo các anh hùng huyền thoại và nhận được tất cả thành tích bằng cách sử dụng chiến lược của bạn trong trò chơi TD tuyệt vời này.",
+      "id": 34
+    },
+    {
+      "image": "11861.jpg",
+      "name": "The Call Of Paper Plane",
+      "price": "20.00",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Bắt đầu từ thành phố, sống trong giấc mơ của một chiếc máy bay giấy, khao khát một chuyến đi khám phá, phía trước là quanh co và xanh tươi. Tránh chướng ngại vật trên đường, thưởng thức phong cảnh trên đường đi, và lắng nghe quần thể chim và hoa từ điểm dừng này đến điểm dừng khác.",
+      "id": 35
+    },
+    {
+      "image": "11813.jpg",
+      "name": "Stormblades",
+      "price": "1.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Trong nhiều thế kỷ, những chiến binh trẻ tuổi vẫn đang tiếp tục tìm kiếm những bí ẩn trong khu di tích bị tàn phá để chứng minh giá trị của mình. Nghi lễ này là cả một cuộc hành trình tìm kiếm kéo dài trong khi đó họ luôn phải đối mặt với những gã khổng lồ được mệnh danh là thần giữ cửa. Trong cuộc tìm kiếm này, người chơi cũng cần nâng cấp vũ khícũng như sức mạnh của mình để giải phóng sức mạnh bí ẩn bên trong nó. Thể hiện kỹ năng thực sự bằng cách tránh và ra đòn trước sự tấn công và phép thuật của những gã khổng lồ. Đánh thức những báu vật cổ và trao quyền cho thanh đao bằng Essence để tiêu diệt hết kẻ thù.",
+      "id": 36
+    },
+    {
+      "image": "11735.jpg",
+      "name": "New Super Lucky's Tale",
+      "price": "20.00",
+      "category": "Hành động",
+      "windows": {
+        "value": false,
+        "icon": ""
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 10,
+      "description": "Nội dung trong New Super Lucky’s Tale vẫn tiếp tục là cuộc phiêu lưu của Lucky, bé cáo dễ thương đáng yêu với nhiệm vụ bảo vệ thánh vật Book of Ages khỏi ác miêu Jynx đang tìm cách chiếm đoạt “cuốn sổ thiên tào” nói trên. Về cơ bản, Book of Ages được thiết kế giống như cánh cổng dịch chuyển đến mỗi thế giới trong game mà người chơi sẽ trải nghiệm. Đáng nói, phần chơi này tích hợp sẵn cả hai DLC Gilly Island và Guardian Trials thành một trải nghiệm hoàn chỉnh. Trong đó, Gilly Island bổ sung thêm một số màn chơi mới còn Guardian Trials thì như cái tên của nó gợi ý, là một loạt các màn chơi với thiết kế chủ yếu để mang đến thử thách cho những ai yêu cảm giác dễ “gây nghiện” này.",
+      "id": 37
+    },
+    {
+      "image": "11732.jpg",
+      "name": "INMOST",
+      "price": "4.99",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 5,
+      "description": "Bạn sẽ vào vai ba nhân vật cùng một lúc để khám phá câu chuyện về những bông hoa – về nỗi đau: cô bé (the Girl), người hùng (the Hero) và chàng hiệp sĩ (the Knight).\nMỗi nhân vật sẽ có những khả năng nhất định, cũng như những hạn chế của riêng họ.",
+      "id": 38
+    },
+    {
+      "image": "11719.jpg",
+      "name": "Gleamlight",
+      "price": "60.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 50,
+      "description": "Trong game phiêu lưu Gleamlight, bạn có thể đắm mình trong nghệ thuật kính màu tuyệt đẹp khi điều hướng nhân vật mà không phụ thuộc vào bất kỳ giao diện người dùng tiêu chuẩn nào, đồng thời truy tìm lời giải cho một câu chuyện bí ẩn. Trong vai cô gái Gleam, bạn nghĩ mình sẽ cảm nhận được gì qua chuyến du lịch đến thế giới thủy tinh xinh đẹp nhưng đáng sợ này?",
+      "id": 39
+    },
+    {
+      "image": "11684.jpg",
+      "name": "Kill It With Fire",
+      "price": "1.99",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Nhện vốn là kẻ thù không đội trời chung với con người. Trong Kill It With Fire, người chơi sẽ bước vào căn nhà có nhiều phòng, lật mở từng món đồ, khám phá mọi ngóc ngách để tìm con mồi và tiêu diệt nó bằng súng, gậy, phi tiêu, bình xịt...Trong game sở hữu kho vũ khí phong phú, giúp bạn tiêu diệt nhện ở bất kỳ vị trí và tình huống nào.",
+      "id": 40
+    },
+    {
+      "image": "11593.jpg",
+      "name": "Trap Legend",
+      "price": "10.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Một câu chuyện lãng mạn đầy hỗn loạn giữa người đàn ông và cô gái mặc áo dài trong thời hiện đại, được dẫn dắt bởi các Nữ thần trong truyền thuyết!",
+      "id": 41
+    },
+    {
+      "image": "11552.jpg",
+      "name": "Aeolis Tournament",
+      "price": "3.00",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Aeolis Tournament là game hành động nhiều người chơi mới cực thú vị, nơi 8 người sẽ cạnh tranh trong các chế độ chơi khác nhau dựa trên cơ chế một nút đơn giản. Nhân vật sẽ sử dụng một khẩu pháo để kiểm soát sức mạnh của gió và tạo ra đạn.",
+      "id": 42
+    },
+    {
+      "image": "11482.jpg",
+      "name": "Townscaper",
+      "price": "8.00",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 10,
+      "description": "Townscaper là một dự án đam mê thử nghiệm. Nhiều đồ chơi hơn là một trò chơi. Chọn màu từ bảng màu, xếp các khối nhà có màu trên lưới không đều và xem thuật toán cơ bản của Townscaper sẽ tự động biến các khối đó thành những ngôi nhà nhỏ dễ thương, mái vòm, cầu thang, cầu và sân sau tươi tốt, tùy thuộc vào cấu hình của chúng.",
+      "id": 43
+    },
+    {
+      "image": "11452.jpg",
+      "name": "Little Witch Nobeta",
+      "price": "10.00",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 0,
+      "description": "Điều khiển cô phù thủy nhỏ phiêu lưu khám phá lâu đài bí ẩn và tìm ra sự thật trong game hành động 3D Little Witch Nobeta. Cả 1 thế giới ma thuật huyền bí và thú vị đang chờ đợi bạn khám phá trong Little Witch Nobeta game.",
+      "id": 44
+    },
+    {
+      "image": "11447.jpg",
+      "name": "Truck and Logistics Simulator",
+      "price": "90.00",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 50,
+      "description": "Truck and Logistics Simulator là game mô phỏng vận chuyển hàng hóa chân thực như cuộc sống. Chơi Truck &amp; Logistics Simulator để quản lý hậu cần từ A-Z trong chế độ chơi đơn hay nhiều người chơi. Điều khiển hơn 20 loại xe để thực hiện nhiệm vụ vận tải phức tạp và vận chuyển hàng hóa đa dạng trực tiếp tới tay khách hàng. Người chơi phải làm chủ nhiều loại phương tiện hậu cần như xe nâng hàng, cần cẩu, máy xúc… để hỗ trợ xe tải bốc dỡ hàng hóa.",
+      "id": 45
+    },
+    {
+      "image": "11323.jpg",
+      "name": "Guardians of the Ashes",
+      "price": "80.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 20,
+      "description": "Trong game Anime nhập vai Guardians of the Ashes, người chơi sẽ bắt đầu hành trình từ 1 nữ chiến binh bị mất trí nhớ, tình cờ trở thành “Người được chọn” với sứ mệnh bảo vệ thế giới.",
+      "id": 46
+    },
+    {
+      "image": "11178.jpg",
+      "name": "Inside The Mirror",
+      "price": "60.00",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 20,
+      "description": "Yumi là một nữ sinh trung học đang phải vật lộn với quá khứ của mình. Trước đây, cô ấy chỉ là một cô gái bình thường khác sống hạnh phúc bên gia đình. Giờ đây, gia đình cô đã tan vỡ, và Yumi cảm thấy khó khăn để duy trì động lực trong cuộc sống hàng ngày của mình, bị đè bẹp bởi một giếng tối ngày càng lớn, dần dần tiêu diệt cô từ trong ra ngoài.",
+      "id": 47
+    },
+    {
+      "image": "11097.jpg",
+      "name": "PIVO",
+      "price": "15.00",
+      "category": "Hành động",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": true,
+        "icon": "fab fa-playstation"
+      },
+      "discount": 0,
+      "description": "PIVO là một trò chơi giải đố giữa không gian 2D và không gian 3D. Hãy cùng chú chó corgi dễ thương đi tìm chủ nhân và khám phá những bí mật của thế giới Voxel. Với cây đũa phép của chủ nhân, bạn có thể nhảy qua một vách đá quá xa để vượt qua, hoặc một khối quá cao để leo lên.",
+      "id": 48
+    },
+    {
+      "image": "10994.jpg",
+      "name": "Hidden Through Time",
+      "price": "5.99",
+      "category": "Chiến Thuật",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 0,
+      "description": "Game Hidden Through Time đưa bạn vào chuyến phiêu lưu khám phá thế giới qua các thời đại trên nền đồ họa vẽ tay đầy màu sắc. Từ những quả trứng khủng long bị mất tích cho đến thời kỳ đồ đá, ngai vàng của vị vua thời Trung cổ, bạn có thể tìm thấy tất cả mọi thứ không? Game vui theo phong cách tìm đồ vật ẩn - Hidden Object, nơi bạn khám phá, xây dựng và chia sẻ thế giới với những kho báu bí mật của riêng mình. Có thể nói, đây là trò chơi “trốn tìm” với các đồ vật, đối tượng nằm rải rác trong suốt chiều dài lịch sử loài người. Hãy sử dụng gợi ý để khám phá mọi bí mật khi bạn chinh phục những level vẽ tay đầy màu sắc, bắt mắt trong ",
+      "id": 49
+    },
+    {
+      "image": "10825.jpg",
+      "name": "Azur Lane Crosswave",
+      "price": "25.00",
+      "category": "Nhập vai",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 20,
+      "description": "Azur Lane: Crosswave là game Anime nhập vai quy tụ dàn “hot girl” xinh đẹp, họ sẽ tập hợp lại trong 1 cuộc tập trận mới. Mỗi quốc gia sẽ chọn ra 1 vài gương mặt đại diện xứng đáng để tham gia sự kiện nghiêm túc này. Nhưng sự kiện sẽ diễn ra như thế nào? Và âm mưu nào đang đứng đằng sau tất cả những hoạt động này?\nAzur Lane: Crosswave vẫn giữ nguyên tinh thần của phiên bản di động, kết hợp công nghệ Unreal Engine mới để đưa nhân vật vào thế giới 3D rộng lớn, mang đến trải nghiệm chiến đấu vô cùng chân thực.",
+      "id": 50
     }
   ],
   "COVER": [
@@ -902,6 +1377,56 @@
       "discount": 5,
       "description": "Dead Cells cho phép người chơi vào vai một xác chết vô danh nhưng lại có khả năng chiến đấu “ảo diệu” đi khám phá sự tồn tại của mình trên một hòn đảo vô định và đầy rẫy cạm bẫy luôn sẵn sàng cho bạn “về vườn”.",
       "id": 3
+    },
+    {
+      "image": "11205.jpg",
+      "name": "Levelhead",
+      "price": "10.00",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": true,
+        "icon": "fab fa-apple"
+      },
+      "android": {
+        "value": true,
+        "icon": "fab fa-google-play"
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 50,
+      "description": "Tựa game màn hình ngang với đồ hoạ 2D sẽ cho bạn tạo ra màn chơi của riêng mình và chia sẻ nó để mọi người cùng nhau vượt qua. Bạn sẽ có hơn 60 thứ để tạo nên màn chơi riêng của mình, những thứ bao gồm kẻ thù, chướng ngại vật, công tắc, đường bí mật, vật phẩm tăng sức mạnh và còn rất nhiều thứ khác để bạn tự do sáng tạo.",
+      "id": 4
+    },
+    {
+      "image": "10582.jpg",
+      "name": "Uncharted Ocean",
+      "price": "5.00",
+      "category": "Mô Phỏng",
+      "windows": {
+        "value": true,
+        "icon": "fab fa-windows"
+      },
+      "apple": {
+        "value": false,
+        "icon": ""
+      },
+      "android": {
+        "value": false,
+        "icon": ""
+      },
+      "playstation": {
+        "value": false,
+        "icon": ""
+      },
+      "discount": 20,
+      "description": "Uncharted Ocean PC là game nhập vai khám phá đại dương với bối cảnh là thế giới mở mênh mông. Giống như loạt game hải chiến kiểu Sea Salt hay Battlewake, bạn sẽ đối mặt với những đại dương đầy kẻ thù, nơi diễn ra quá trình mua bán để phát triển đế chế trên biển của mình. Biển cả luôn hỗn loạn và ẩn chứa nhiều rủi ro, nhưng rất nhiều kho báu cũng đang chờ đợi chúng ta tìm kiếm trong ",
+      "id": 5
     }
   ],
   "cart": [
